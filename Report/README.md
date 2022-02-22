@@ -58,3 +58,5 @@ The project is designed to function as an automatic irrigation system which turn
 • Irrigation process starts and stops exactly when required, thus optimizing energy requirements
 
 # CONCLUSION
+The purpose of designing of Automatic Plant Irrigation System is successfully achieved and fulfills the desired objectives. The hardware and software used performed their function properly to produce desired result which is the required for the farmers in the irrigation field. Interfacing of run time switches with microcontroller makes it flexible in respect of time settings for running a water pipe line. Using this system, farmers will get the protection while doing the irrigation work in extremely odd weather conditions, hard work of repeated assembly and will get rid of poisonous reptiles. The system, which is designed, will help the farmers to do the irrigation process in night also. The system designed do not requires the physical presence of the farmers during irrigation in the fields. The system is automatically monitored and controls the pump on and off.
+

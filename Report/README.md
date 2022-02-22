@@ -6,7 +6,7 @@ Water shortage is one of the major problems in the world. Many different methods
 
 # BLOCK DIAGRAM
 ![block diagram](https://user-images.githubusercontent.com/98830460/155117259-a0befc4c-c33d-4011-ad01-4ded7db31f37.png)
-# SWOT
+# SWOT ANALYSIS
 ![SWOT](https://user-images.githubusercontent.com/98830460/155152539-35c819b7-9459-40f9-896d-0516e82bc71c.png)
 
 

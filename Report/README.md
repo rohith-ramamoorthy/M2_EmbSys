@@ -1,19 +1,19 @@
 # AUTOMATIC PLANT IRRIGATION SYSTEM
 
-## INTRODUCTION
+# INTRODUCTION
 
 Water shortage is one of the major problems in the world. Many different methods are incorporated for conservation of water. We need water in each and every field & is needed for every human being, animals, plants, etc. Agriculture is one such field where water is required in high quantity. Wastage of water is a major problem in agriculture. Every time excess of water is given to the fields. A number of techniques are available to save or to control wastage of water from agriculture.
 
-## BLOCK DIAGRAM
+# BLOCK DIAGRAM
 ![block diagram](https://user-images.githubusercontent.com/98830460/155117259-a0befc4c-c33d-4011-ad01-4ded7db31f37.png)
 
-## SWOR ANALYSIS
+# SWOR ANALYSIS
 
-## HIGH LEVEL REQUIREMENT
-## LOW LEVEL REQUIREMENT
+# HIGH LEVEL REQUIREMENT
+# LOW LEVEL REQUIREMENT
 
 
-## COMPONENTS REQUIRED
+# COMPONENTS REQUIRED
 ## Humidity/Soil Moisture Sensor:
 The humidity/soil moisture sensor just senses the humidity or the moisture of the soil. The change in humidity is proportional to the amount of current flowing through the soil.
 ## Diode (In4007):
@@ -42,3 +42,19 @@ It is the ideal defined voltage.
 ## GSM Module: 
 This system is connected to a communication device called “GSM Module”. It can be connected to different devices such as modems, cellular phones or satellite terminal to activate the remote collection of recorded data or alarming of certain parameters. The connections between the two mobiles are done using GSM. When the soil moisture sensor senses the low moisture content of the soil, it gives a signal to the microcontroller. The microcontroller then gives a signal to the GSM Module which further sends a message to the mobile.
 
+# PROPOSED WORK
+The project is designed to function as an automatic irrigation system which turns the pump/motor ON/OFF depending upon the humidity content of the soil. The project uses ATMEGA 328 microcontroller which is programmed to receive the input signal of varying moisture condition of the soil through the sensing arrangement. This is achieved by using an op-amp as comparator which acts as interface between the sensing arrangement and the microcontroller. An LCD display is also interfaced to the microcontroller to display status of the soil and water pump. The sensing arrangement is made by using two stiff metallic rods inserted into the field at a distance.
+
+#  ADVANTAGES
+ • Saves water
+ • Improves growth 
+• Discourages weeds 
+• Saves time 
+• Helps control fungal diseases 
+• Adaptable 
+• Eliminates the manual operation of opening or closing valves 
+• Adaption of the advanced irrigation systems and the new technologies, especially the new irrigation systems that are complex and difficult to operate manually. 
+• The system will be operated in night also which results in minimization of the water loss due to evaporation. 
+• Irrigation process starts and stops exactly when required, thus optimizing energy requirements
+
+# CONCLUSION

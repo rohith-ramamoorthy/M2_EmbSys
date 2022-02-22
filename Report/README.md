@@ -7,11 +7,17 @@ Water shortage is one of the major problems in the world. Many different methods
 # BLOCK DIAGRAM
 ![block diagram](https://user-images.githubusercontent.com/98830460/155117259-a0befc4c-c33d-4011-ad01-4ded7db31f37.png)
 
-# SWOR ANALYSIS
-
-# HIGH LEVEL REQUIREMENT
-# LOW LEVEL REQUIREMENT
-
+# 4W'S and 1 H
+ ## WHO
+ The automatic plant irrigation system can be used by farmer's, who need the self irrigate the crop's. 
+ ## WHAT
+ It automaticly give the water to the plants by senseing the water content in the field.  
+ ## WHEN
+ It is active all the time and notifies in case of needed in irrigation.
+ ## WHERE
+ It can be used in the large field, small field, garden etc
+ ## HOW
+It requires a PC or laptop along with embedded device and sensors to complete.
 
 # COMPONENTS REQUIRED
 ## Humidity/Soil Moisture Sensor:

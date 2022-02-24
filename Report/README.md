@@ -21,6 +21,15 @@ Water shortage is one of the major problems in the world. Many different methods
  It can be used in the large field, small field, garden etc
  ## HOW
 It requires a PC or laptop along with embedded device and sensors to complete.
+# Reuirement
+### High Level Requirement
+| ID | Description |
+| ---- | ----------- |
+| HR01 | |
+| HR02 | |
+| HR03 | |
+| HR04 | |
+| HR05 | |
 
 # COMPONENTS REQUIRED
 ## Humidity/Soil Moisture Sensor:

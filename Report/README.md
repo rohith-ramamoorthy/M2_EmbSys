@@ -56,14 +56,23 @@ The project is designed to function as an automatic irrigation system which turn
 
 #  ADVANTAGES
  • Saves water
+ 
  • Improves growth 
+ 
 • Discourages weeds 
+
 • Saves time 
+
 • Helps control fungal diseases 
+
 • Adaptable 
+
 • Eliminates the manual operation of opening or closing valves 
+
 • Adaption of the advanced irrigation systems and the new technologies, especially the new irrigation systems that are complex and difficult to operate manually. 
+
 • The system will be operated in night also which results in minimization of the water loss due to evaporation. 
+
 • Irrigation process starts and stops exactly when required, thus optimizing energy requirements
 
 # CONCLUSION

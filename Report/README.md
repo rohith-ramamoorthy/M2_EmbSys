@@ -25,16 +25,17 @@ It requires a PC or laptop along with embedded device and sensors to complete.
 ### High Level Requirement
 | ID | Description |
 | ---- | ----------- |
-| HR01 | |
-| HR02 | |
-| HR03 | |
-| HR04 | |
-| HR05 | |
+| HR01 | Measuring the water level |
+| HR02 | Finding the amount of water crop needed |
+| HR03 | Allowing the water to fields |
+| HR04 | Stoping the water after reaching the level |
+| HR05 | continous monitoring |
+
 ### Low Level Requirement
 | ID | Description |
 | ---- | ------------ |
-| LR01 |  |
-| LR02 |  |
+| LR01 | Sensors |
+| LR02 | Microcontroller |
 
 # COMPONENTS REQUIRED
 ## Humidity/Soil Moisture Sensor:

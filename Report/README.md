@@ -30,6 +30,11 @@ It requires a PC or laptop along with embedded device and sensors to complete.
 | HR03 | |
 | HR04 | |
 | HR05 | |
+### Low Level Requirement
+| ID | Description |
+| ---- | ------------ |
+| LR01 |  |
+| LR02 |  |
 
 # COMPONENTS REQUIRED
 ## Humidity/Soil Moisture Sensor:

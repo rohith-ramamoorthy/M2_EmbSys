@@ -25,7 +25,7 @@ The passenger can adjust the temperature by looking at the display, which is pro
  when the temperatur is change in car, this project will display the details
  
  ## WHERE
- In side the car, house, industry etc. 
+ Inside the car, house, industry etc. 
  
  ## HOW
  Microcontroller will activate the heat generator.

@@ -19,10 +19,11 @@ The passenger can adjust the temperature by looking at the display, which is pro
  The device can be used by anyone inside the vehicle.
  
  ## WHAT
+ Temperatur will change, that time the sensor will detect and the microcontroller will work.
  
 
  ## WHEN
- when the temperatur is change in car, this project will display the details
+ when the temperatur is change in car, this project will display the details.
  
  ## WHERE
  Inside the car, house, industry etc. 

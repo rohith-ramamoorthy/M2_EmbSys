@@ -11,6 +11,8 @@ Depending on the surroundings, the vehicle monitoring system can be used for a v
 # Features
 The passenger can adjust the temperature by looking at the display, which is provided in the system. Modular Programming is a type of programming that is based on modules. The temperature in the car can be changed by both the driver and the passenger. It is capable of determining whether the user is in the car or not.
  # SWOT Analysis
+ ![SWOT Analysis](https://user-images.githubusercontent.com/98830460/155717270-bba7959d-97f3-4aad-ac60-fce64979acad.png)
+
  
  # 4W"S and 1H
  ## WHO

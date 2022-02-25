@@ -26,20 +26,20 @@ The passenger can adjust the temperature by looking at the display, which is pro
  ### High Level Requirements
 | ID | Descriation |
 | ----- | ---------- |
-| HR01 | |
-| HR02 | |
-| HR03 | |
-| HR04 | |
-| HR05 | |
+| HR01 |  Temperature Sensor  |
+| HR02 | Microcontroller |
+| HR03 | Heat Generation |
+| HR04 | Switch |
+| HR05 | Display |
 
 ### Low Level Requirements
 | ID | Descriation |
 | ----- | ---------- |
-| LR01 | |
-| LR02 | |
-| LR03 | |
-| LR04 | |
-| LR05 | |
+| LR01 | ATmega328 |
+| LR02 | SimulIDE LCD and LED |
+| LR03 | Push Button |
+| LR04 | AVR GCC compiler |
+| LR05 | LM35 AND ADC |
 
 
 

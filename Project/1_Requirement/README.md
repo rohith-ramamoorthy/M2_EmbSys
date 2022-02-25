@@ -16,14 +16,19 @@ The passenger can adjust the temperature by looking at the display, which is pro
  
  # 4W"S and 1H
  ## WHO
+ The device can be used by anyone inside the vehicle.
  
  ## WHAT
  
+
  ## WHEN
+ when the temperatur is change in car, this project will display the details
  
  ## WHERE
+ In side the car, house, industry etc. 
  
  ## HOW
+ Microcontroller will activate the heat generator.
 
  ### High Level Requirements
 | ID | Descriation |

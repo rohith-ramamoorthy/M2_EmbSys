@@ -1,3 +1,7 @@
+# Vehicle Monitoring System
+
+
+
 # Introduction
 Self-driving automobiles will be the future in the age of artificial intelligence, with autonomy in the hands of the autonomous vehicle's circuits. There will be manual-driven automobiles on the road alongside autonomous vehicles. As a result, the impact of vehicle monitoring in enterprises today is quite astounding in terms of ensuring safety and security, checking condition, and improving vehicular efficiency. The created Vehicle Monitoring System (V.M.S.) focuses on monitoring a vehicle that has this system installed inside of it. When this technology is turned on, it will continuously monitor the vehicle's location, co-content, and collision scenarios. As long as the V.M.S. is up and running and powered on, it will continue to do the tasks that have been assigned to it. The main goal of our project is to build and construct a system that can monitor the passenger's existence as well as Heat Monitoring and Displaying.
 
